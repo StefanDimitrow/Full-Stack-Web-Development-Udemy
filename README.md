@@ -1,6 +1,6 @@
-##Full-stack Web Development Udemy##
+# Full-stack Web Development Udemy
 
-1. HTML 
+1. HTML
 2. CSS
 3. JavaScript
 4. Node.js
@@ -9,4 +9,4 @@
 7. Web3
 8. DApps
 
-Hello, these are my solutions for the course. Enjoy :)
+Some of the sections are done in a browser environment, so they don't have any files.
